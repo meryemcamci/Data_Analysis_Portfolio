@@ -2,9 +2,9 @@
 # Data Analysis Portfolio of Meryem Camci
 
 ## About
-Hi, I’m Meryem! As a data analyst, I thrive on transforming raw data into actionable insights that drive smart decision-making. With hands-on experience in various data tools, I specialize in cleaning, analyzing, and visualizing data to uncover meaningful patterns and trends. My strong foundation in the life sciences fuels my passion for data-driven discoveries, and I’m eager to apply my technical and analytical expertise to the world of data science.
+Hi, I’m Meryem! As a data analyst, I thrive on transforming raw data into actionable insights that drive smart decision-making. With hands-on experience in various data tools, I specialize in cleaning, analyzing, and visualizing data to uncover meaningful patterns and trends. I’m eager to apply my technical and analytical expertise to the world of data science.
 
-My journey began in e-commerce and digital marketing, where I sharpened my skills in data analysis, A/B testing, and statistical modeling. Along the way, I developed a keen eye for data management. I am proficient in SQL, Excel, Tableau, and Python, with a solid grasp of essential data analytics techniques, including data preparation, wrangling, statistical analysis, dashboard design, process documentation, and storytelling through data.
+My journey began in e-commerce and digital marketing, where I sharpened my skills in data analysis, A/B testing, and statistical modeling. I am proficient in SQL, Excel, Tableau, and Python, with a solid grasp of essential data analytics techniques, including data preparation, wrangling, statistical analysis, dashboard design, process documentation, and storytelling through data.
 
 This portfolio is a showcase of my skills in action. Inside, you’ll find a collection of data projects that highlight my ability to organize, analyze, and present data effectively. From SQL queries and Tableau dashboards to Excel workbooks, Jupyter Notebooks, RStudio projects, and PowerPoint presentations, these works demonstrate my expertise in making data accessible, visually engaging, and impactful for decision-making.
 
