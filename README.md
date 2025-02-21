@@ -2,9 +2,13 @@
 # Data Analysis Portfolio of Meryem Camci
 
 ## About
-Hi, I'm Meryem! I have a social and analytical background in Educational Psychology and Tourism Administration. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+Hi, I’m Meryem! As a data analyst, I thrive on transforming raw data into actionable insights that drive smart decision-making. With hands-on experience in various data tools, I specialize in cleaning, analyzing, and visualizing data to uncover meaningful patterns and trends. My strong foundation in the life sciences fuels my passion for data-driven discoveries, and I’m eager to apply my technical and analytical expertise to the world of data science.
 
-During my early career, I honed my ability to work with data analysis for e-commerce and digital marketing. I also gained experience in data management, A/B testing, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+My journey began in e-commerce and digital marketing, where I sharpened my skills in data analysis, A/B testing, and statistical modeling. Along the way, I developed a keen eye for data management. I am proficient in SQL, Excel, Tableau, and Python, with a solid grasp of essential data analytics techniques, including data preparation, wrangling, statistical analysis, dashboard design, process documentation, and storytelling through data.
+
+This portfolio is a showcase of my skills in action. Inside, you’ll find a collection of data projects that highlight my ability to organize, analyze, and present data effectively. From SQL queries and Tableau dashboards to Excel workbooks, Jupyter Notebooks, RStudio projects, and PowerPoint presentations, these works demonstrate my expertise in making data accessible, visually engaging, and impactful for decision-making.
+
+I’m excited to share my work and look forward to new opportunities to leverage data for meaningful insights!
 
 [My resume in PDF.](https://drive.google.com/file/d/1DJWrM6fu3jvUQA8kLjG5PldGlt0-NjaB/view?usp=sharing)
 
