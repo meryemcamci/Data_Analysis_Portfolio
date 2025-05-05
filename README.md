@@ -17,9 +17,9 @@ This is a repository to showcase skills, share projects and check my progress in
 ## Table of Contents
 
 * About
-* Portfolio
+* Portfolio Projects
   * Python
-  * R
+  * R    
   * SQL
   * Excel/Google Sheets
   * Tableau
@@ -29,6 +29,16 @@ This is a repository to showcase skills, share projects and check my progress in
 * Contact
 
 ## Portfolio Projects
+
+My data analytics projects to find a solution for real-world case scenarios can be seen in this section. 
+
+### Regression Modeling for Analyzing the Factors of a Movie Success 
+#### Code: 
+#### Goal: 
+#### Description: 
+#### Skills: Exploratory Data Analysis (EDA), Regression Modeling, Data Visualization 
+#### Technology: RStudio 
+#### Results: 
 
 ## Education
 
