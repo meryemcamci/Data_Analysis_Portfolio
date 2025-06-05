@@ -40,6 +40,13 @@ My data analytics projects to find a solution for real-world case scenarios can 
 #### Technology: RStudio 
 #### Results: 
 
+### Analyzing Northwind Dataset with SQL to Measure Sales Performance
+#### Code: 
+#### Goal: 
+#### Description: 
+#### Skills: Exploratory Data Analysis (EDA), Regression Modeling, Data Visualization 
+#### Technology: RStudio 
+#### Results: 
 ## Education
 
 Bosphorus University (Top Ranked Institution in Turkey), Istanbul, Turkey  (Jul, 2021)                                           
