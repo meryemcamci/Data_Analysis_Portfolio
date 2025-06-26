@@ -16,16 +16,16 @@ This is a repository to showcase skills, share projects and check my progress in
 ## 📌 Table of Contents
 
 * [About](#about)
-* [Portfolio Projects](#portfolio-projects)
+* [Portfolio Projects](#🔍-portfolio-projects)
   * R Project
     [Regression Modeling for Analyzing the Factors of a Movie's Success](#regression-modeling-for-analyzing-the-factors-of-a-movies-success)
   * Hypothesis Testing Project
     [Exploring Jeopardy Questions Dataset](#exploring-jeopardy-questions-dataset)
   * Machine Learning Project
     [Heart Disease Data Exploration and Prediction](#heart-disease-data-exploration-and-prediction)
-* [Education](#education)
-* [Certificates](#certificates)
-* [Contact](#contacts)
+* [Education](#🧠-education)
+* [Certificates](#📌-certificates)
+* [Contact](#✅-contacts)
 
 ## 🔍 Portfolio Projects
 
