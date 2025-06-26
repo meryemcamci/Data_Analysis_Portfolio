@@ -17,52 +17,55 @@ This is a repository to showcase skills, share projects and check my progress in
 
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
+* R Project  
   * [Regression Modeling for Analyzing the Factors of a Movie's Success](#regression-modeling-for-analyzing-the-factors-of-a-movies-success)
+* Hypothesis Testing Project (Using Chi-Square Testing)
   * [Exploring Jeopardy Questions Dataset](#exploring-jeopardy-questions-dataset)
+* Machine Learning Project
   * [Heart Disease Data Exploration and Prediction](#heart-disease-data-exploration-and-prediction)
 * [Education](#education)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 
 ## Portfolio Projects  
-🔍  
 
 My data analytics projects to find a solution for real-world case scenarios can be seen in this section. 
 
-### [Regression Modeling for Analyzing the Factors of a Movie's Success](https://github.com/meryemcamci/movie-regression-project)
-#### Code: [movie-regression-project repo](https://github.com/meryemcamci/movie-regression-project)
-#### Goal: Identify the key factors that contribute to a movie's IMDb score using regression models.
-#### Description: This project uses exploratory data analysis and regression modeling to analyze various features of movies such as budget, cast, genres, and more to predict IMDb scores.
-#### Skills: Exploratory Data Analysis (EDA), Regression Modeling, Data Visualization 
-#### Technology: RStudio 
-#### Results: Delivered a well-documented report with statistical models and visualizations to understand predictors of movie success.
+### 📊 R Project  
+### *[Regression Modeling for Analyzing the Factors of a Movie's Success](https://github.com/meryemcamci/movie-regression-project)*
+ **Code**: [movie-regression-project repo](https://github.com/meryemcamci/movie-regression-project)
+<br> **Goal**: Identify the key factors that contribute to a movie's IMDb score using regression models.
+<br> **Description**: This project uses exploratory data analysis and regression modeling to analyze various features of movies such as budget, cast, genres, and more to predict IMDb scores.
+<br> **Skills**: Exploratory Data Analysis (EDA), Regression Modeling, Data Visualization 
+<br> **Technology**: RStudio
+<br> **Results**: Delivered a well-documented report with statistical models and visualizations to understand predictors of movie success.
 
-### [Exploring Jeopardy Questions Dataset](https://github.com/meryemcamci/jeopardy-questions-project)
-#### Code: [jeopardy-questions-project repo](https://github.com/meryemcamci/jeopardy-questions-project)
-#### Goal: Analyze the Jeopardy dataset to find trends in questions, categories, and difficulty levels.
-#### Description: Conducted a comprehensive analysis on a dataset of past Jeopardy! questions using Python and pandas to understand frequency and structure of question formats.
-#### Skills: Text Processing, Data Wrangling, Pattern Recognition, Frequency Analysis  
-#### Technology: Python, Jupyter Notebook  
-#### Results: Identified most common question types, recurring categories, and difficulty trends over time.
+### 📊 Hypothesis Testing Project (Using Chi-Square Testing)
+### *[Exploring Jeopardy Questions Dataset](https://github.com/meryemcamci/jeopardy-questions-project)*
+ **Code**: [jeopardy-questions-project repo](https://github.com/meryemcamci/jeopardy-questions-project)
+<br> **Goal**: Analyze the Jeopardy dataset to find trends in questions, categories, and difficulty levels.
+<br> **Description**: Conducted a comprehensive analysis on a dataset of past Jeopardy! questions using Python and pandas to understand frequency and structure of question formats.
+<br> **Skills**: Text Processing, Data Wrangling, Pattern Recognition, Frequency Analysis
+<br> **Technology**: Python, Jupyter Notebook 
+<br> **Results**: Identified most common question types, recurring categories, and difficulty trends over time.
 
-### [Heart Disease Data Exploration and Prediction](https://github.com/meryemcamci/heart-diseases-project)
-#### Code: [heart-diseases-project repo](https://github.com/meryemcamci/heart-diseases-project)
-#### Goal: Explore and model heart disease data to predict risk based on medical features.
-#### Description: Applied data visualization and classification models to predict presence of heart disease. Used Logistic Regression and Decision Tree Classifiers.
-#### Skills: Data Cleaning, Classification Modeling, Data Visualization  
-#### Technology: Python, Jupyter Notebook, scikit-learn  
-#### Results: Built models to classify risk levels and provided insight into key medical predictors.
+### 📊 Machine Learning Project
+### *[Heart Disease Data Exploration and Prediction](https://github.com/meryemcamci/heart-diseases-project)*
+ **Code**: [heart-diseases-project repo](https://github.com/meryemcamci/heart-diseases-project) 
+<br> **Goal**: Explore and model heart disease data to predict risk based on medical features. 
+<br> **Description**: Applied data visualization and classification models to predict presence of heart disease. Used Logistic Regression and Decision Tree Classifiers. 
+<br> **Skills**: Data Cleaning, Classification Modeling, Data Visualization 
+<br> **Technology**: Python, Jupyter Notebook, scikit-learn 
+<br> **Results**: Built models to classify risk levels and provided insight into key medical predictors.
 
 ## Education  
-🧠  
 
 **Bosphorus University (Top Ranked Institution in Turkey)** — *Istanbul, Turkey*  
-**Bachelor of Arts in Psychological Counseling and Guidance**  
-*Minor Degree in Tourism Administration, Faculty of Managerial Sciences*  
+Bachelor of Arts in Psychological Counseling and Guidance
+<br> *Minor Degree in Tourism Administration, Faculty of Managerial Sciences*  
 (Jul 2021)
 
-## Certificates  
-📌  
+## Certificates 
 
 Here are some of my certificates that I believe helped me a lot during my data journey:
 
@@ -72,7 +75,6 @@ Here are some of my certificates that I believe helped me a lot during my data j
 * [A/B Testing – Udacity](https://www.udacity.com/enrollment/ud257)
 
 ## Contacts  
-✅  
 
 **LinkedIn:** [linkedin.com/in/meryemcamci](https://www.linkedin.com/in/meryemcamci/)  
 **Email:** meryeemcamci@gmail.com  
