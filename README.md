@@ -13,7 +13,7 @@ I’m excited to share my work and look forward to new opportunities to leverage
 
 This is a repository to showcase skills, share projects and check my progress in Data Analytics / Data Science related topics.
 
-## Table of Contents
+## 📌 Table of Contents
 
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
@@ -27,7 +27,7 @@ This is a repository to showcase skills, share projects and check my progress in
 * [Certificates](#certificates)
 * [Contact](#contacts)
 
-## Portfolio Projects
+## 🔍 Portfolio Projects
 
 My data analytics projects to find a solution for real-world case scenarios can be seen in this section. 
 
@@ -55,13 +55,13 @@ My data analytics projects to find a solution for real-world case scenarios can 
 #### Technology: Python, Jupyter Notebook, scikit-learn
 #### Results: Built models to classify risk levels and provided insight into key medical predictors.
 
-## Education
+## 🧠 Education
 
 Bosphorus University (Top Ranked Institution in Turkey), Istanbul, Turkey  (Jul, 2021)                                           
  * Bachelor of Arts in Psychological Counseling and Guidance
  * Minor Degree in Tourism Administration, Faculty of Managerial Sciences
 
-## Certificates
+## 📌 Certificates
 
 Here are some of my certificates that I believe it helped me a lot during the journey of data: 
 
@@ -70,7 +70,7 @@ Here are some of my certificates that I believe it helped me a lot during the jo
 * [Python for Data Science, AI & Development - Coursera](https://coursera.org/share/65b7ed491f6b1c1b804dbbc4cbbbda7a)
 * [A/B Testing - Udacity](https://www.udacity.com/enrollment/ud257)
 
-## Contacts
+## ✅ Contacts
 
 #### Linkedin: https://www.linkedin.com/in/meryemcamci/ 
 #### Gmail: meryeemcamci@gmail.com
