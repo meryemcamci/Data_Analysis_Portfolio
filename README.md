@@ -1,4 +1,4 @@
-# Data Analysis Portfolio of Meryem Camci
+# 🎯 Data Analysis Portfolio of Meryem Camci
 
 ## About
 Hi, I’m Meryem! As a data analyst, I thrive on transforming raw data into actionable insights that drive smart decision-making. With hands-on experience in various data tools, I specialize in cleaning, analyzing, and visualizing data to uncover meaningful patterns and trends. I’m eager to apply my technical and analytical expertise to the world of data science.
