@@ -23,6 +23,8 @@ This is a repository to showcase skills, share projects and check my progress in
   * [Exploring Jeopardy Questions Dataset](#exploring-jeopardy-questions-dataset)
 * Machine Learning Project
   * [Heart Disease Data Exploration and Prediction](#heart-disease-data-exploration-and-prediction)
+* Tableau Project
+  * [Visualizing and Predicting Online Retail Sales Using Tableau](#visualizing-and-predicting-online-retail-sales-using-tableau)
 * [Education](#education)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
@@ -57,6 +59,15 @@ My data analytics projects to find a solution for real-world case scenarios can 
 <br> **Skills**: Data Cleaning, Classification Modeling, Data Visualization 
 <br> **Technology**: Python, Jupyter Notebook, scikit-learn 
 <br> **Results**: Built models to classify risk levels and provided insight into key medical predictors.
+
+### 📊 Tableau Project
+### *[Visualizing and Predicting Online Retail Sales Using Tableau](https://github.com/meryemcamci/retail-sales-project)*
+**Code**: [retail-sales-project repo](https://github.com/meryemcamci/retail-sales-project) 
+<br> **Goal**: Analyze online retail data to uncover revenue trends, customer behavior, product performance, and time-based sales patterns using Tableau visualizations.
+<br> **Description**: Created multiple visual dashboards to explore revenue by customer segments, quantity vs revenue, sales by hour, heatmaps by month and day, and top-performing products.
+<br> **Skills**: Dashboard Design, Data Storytelling, Trend Analysis
+<br> **Technology**: Tableau, Python (for data prep), Jupyter Notebook
+<br> **Results**: Delivered interactive Tableau dashboards for business insights.
 
 ## Education  
 
