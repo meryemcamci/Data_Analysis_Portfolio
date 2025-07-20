@@ -9,7 +9,7 @@ This portfolio is a showcase of my skills in action. Inside, you’ll find a col
 
 I’m excited to share my work and look forward to new opportunities to leverage data for meaningful insights!
 
-📄 [My resume in PDF](https://drive.google.com/file/d/1WAVcApdOBeZpGgurMpRxmtPQ3v_nz_9i/view?usp=sharing)
+📄 [My resume in PDF](https://drive.google.com/file/d/1246MBdb6KWHqaWacIizY3fF6qhFHbsBV/view?usp=sharing)
 
 This is a repository to showcase skills, share projects and check my progress in Data Analytics / Data Science related topics.
 
