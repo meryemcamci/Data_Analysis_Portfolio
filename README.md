@@ -17,12 +17,13 @@ This is a repository to showcase skills, share projects and check my progress in
 
 * [About](#about)
 * [Portfolio Projects](#portfolio-projects)
+* Machine Learning Projects
+  * [Heart Disease Data Exploration and Prediction](#heart-disease-data-exploration-and-prediction)
+  * [XGBoost Regression: Predicting House Prices](#xgboost-regression-predicting-house-prices)
 * R Project  
   * [Regression Modeling for Analyzing the Factors of a Movie's Success](#regression-modeling-for-analyzing-the-factors-of-a-movies-success)
 * Hypothesis Testing Project (Using Chi-Square Testing)
   * [Exploring Jeopardy Questions Dataset](#exploring-jeopardy-questions-dataset)
-* Machine Learning Project
-  * [Heart Disease Data Exploration and Prediction](#heart-disease-data-exploration-and-prediction)
 * Tableau Project
   * [Visualizing and Predicting Online Retail Sales Using Tableau](#visualizing-and-predicting-online-retail-sales-using-tableau)
 * [Education](#education)
@@ -32,6 +33,23 @@ This is a repository to showcase skills, share projects and check my progress in
 ## Portfolio Projects  
 
 My data analytics projects to find a solution for real-world case scenarios can be seen in this section. 
+
+### 📊 Machine Learning Projects
+### *[Heart Disease Data Exploration and Prediction](https://github.com/meryemcamci/heart-diseases-project)*
+ **Code**: [heart-diseases-project repo](https://github.com/meryemcamci/heart-diseases-project) 
+<br> **Goal**: Explore and model heart disease data to predict risk based on medical features. 
+<br> **Description**: Applied data visualization and classification models to predict presence of heart disease. Used Logistic Regression and Decision Tree Classifiers. 
+<br> **Skills**: Data Cleaning, Classification Modeling, Data Visualization 
+<br> **Technology**: Python, Jupyter Notebook, scikit-learn 
+<br> **Results**: Built models to classify risk levels and provided insight into key medical predictors.
+
+### *[XGBoost Regression Predicting House Prices](https://github.com/meryemcamci/xgboost-project/tree/main)*
+ **Code**: [xgboost-project repo](https://github.com/meryemcamci/xgboost-project/tree/main)
+<br> **Goal**: Explore and model house prices data to make a prediction. 
+<br> **Description**: This project demonstrates the end-to-end implementation of a regression pipeline using XGBoost to predict house prices.  Used Python 3, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost
+<br> **Skills**: Data Preprocessing, Model Building, Model Evaluation, Cross Validation, Hyperparameter Tuning, Feature Importance
+<br> **Technology**: Python, Jupyter Notebook, scikit-learn 
+<br> **Results**: Model shows strong predictive power with good generalization.
 
 ### 📊 R Project  
 ### *[Regression Modeling for Analyzing the Factors of a Movie's Success](https://github.com/meryemcamci/movie-regression-project)*
@@ -50,15 +68,6 @@ My data analytics projects to find a solution for real-world case scenarios can 
 <br> **Skills**: Text Processing, Data Wrangling, Pattern Recognition, Frequency Analysis
 <br> **Technology**: Python, Jupyter Notebook 
 <br> **Results**: Identified most common question types, recurring categories, and difficulty trends over time.
-
-### 📊 Machine Learning Project
-### *[Heart Disease Data Exploration and Prediction](https://github.com/meryemcamci/heart-diseases-project)*
- **Code**: [heart-diseases-project repo](https://github.com/meryemcamci/heart-diseases-project) 
-<br> **Goal**: Explore and model heart disease data to predict risk based on medical features. 
-<br> **Description**: Applied data visualization and classification models to predict presence of heart disease. Used Logistic Regression and Decision Tree Classifiers. 
-<br> **Skills**: Data Cleaning, Classification Modeling, Data Visualization 
-<br> **Technology**: Python, Jupyter Notebook, scikit-learn 
-<br> **Results**: Built models to classify risk levels and provided insight into key medical predictors.
 
 ### 📊 Tableau Project
 ### *[Visualizing and Predicting Online Retail Sales Using Tableau](https://github.com/meryemcamci/retail-sales-project)*
