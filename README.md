@@ -7,7 +7,7 @@ My journey began in e-commerce and digital marketing, where I sharpened my skill
 
 This portfolio is a showcase of my skills in action. Inside, you’ll find a collection of data projects that highlight my ability to organize, analyze, and present data effectively. From SQL queries and Tableau dashboards to Excel workbooks, Jupyter Notebooks, RStudio projects, and PowerPoint presentations, these works demonstrate my expertise in making data accessible, visually engaging, and impactful for decision-making.
 
-I’m excited to share my work and look forward to new opportunities to leverage data for meaningful insights!
+I’m excited to share my work and look forward to new opportunities to leverage data for meaningful insights! 
 
 📄 [My resume in PDF](https://drive.google.com/file/d/1246MBdb6KWHqaWacIizY3fF6qhFHbsBV/view?usp=sharing)
 
