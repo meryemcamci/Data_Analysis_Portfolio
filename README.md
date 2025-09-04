@@ -9,7 +9,7 @@ This portfolio is a showcase of my skills in action. Inside, you’ll find a col
 
 I’m excited to share my work and look forward to new opportunities to leverage data for meaningful insights! 
 
-📄 [My resume in PDF](https://drive.google.com/file/d/1246MBdb6KWHqaWacIizY3fF6qhFHbsBV/view?usp=sharing)
+📄 [My resume in PDF](https://drive.google.com/file/d/1DJWrM6fu3jvUQA8kLjG5PldGlt0-NjaB/view?usp=sharing)
 
 This is a repository to showcase skills, share projects and check my progress in Data Analytics / Data Science related topics.
 
@@ -103,6 +103,8 @@ Here are some of my certificates that I believe helped me a lot during my data j
 * [Python Project for Data Science – Coursera](https://coursera.org/share/e44ab96f41677bd0adce5fbee2bae8e4)
 * [Python for Data Science, AI & Development – Coursera](https://coursera.org/share/65b7ed491f6b1c1b804dbbc4cbbbda7a)
 * [A/B Testing – Udacity](https://www.udacity.com/enrollment/ud257)
+* [Data Scientist in Python (38 Courses) - DataQuest ](https://app.dataquest.io/view_cert/VU8CLVO2PPPB0WBXJ5IY)
+
 
 ## Contacts  
 
