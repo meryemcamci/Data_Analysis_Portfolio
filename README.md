@@ -20,6 +20,8 @@ This is a repository to showcase skills, share projects and check my progress in
 * Machine Learning Projects
   * [Heart Disease Data Exploration and Prediction](#heart-disease-data-exploration-and-prediction)
   * [XGBoost Regression: Predicting House Prices](#xgboost-regression-predicting-house-prices)
+* Marketing Analytics Project
+  * [Marketing Mix Modeling (MMM) Project](#marketing-mix-modeling-mmm-project)
 * R Project  
   * [Regression Modeling for Analyzing the Factors of a Movie's Success](#regression-modeling-for-analyzing-the-factors-of-a-movies-success)
 * Hypothesis Testing Project (Using Chi-Square Testing)
@@ -50,6 +52,14 @@ My data analytics projects to find a solution for real-world case scenarios can 
 <br> **Skills**: Data Preprocessing, Model Building, Model Evaluation, Cross Validation, Hyperparameter Tuning, Feature Importance
 <br> **Technology**: Python, Jupyter Notebook, scikit-learn 
 <br> **Results**: Model shows strong predictive power with good generalization.
+
+### 📊 Marketing Analytics Projects
+### *[Marketing Mix Modeling (MMM) Project](https://github.com/meryemcamci/MarketingMixModel)*
+ **Code**: [MarketingMixModel repo](https://github.com/meryemcamci/MarketingMixModel) 
+<br> **Goal**: To measure channel effectiveness, evaluate model performance, and optimize budget allocation across different media channels.
+<br> **Description**: This project implements an end-to-end Marketing Mix Modeling (MMM) workflow using Python. 
+<br> **Skills**: Synthetic Data Generation, Data Preprocessing, Baseline & Regularized Models, Model Evaluation, Budget Optimization
+<br> **Technology**: Python (pandas, sklearn, scipy, matplotlib), Time-series feature engineering (adstock, saturation), Model evaluation (MAPE, RMSE, residual analysis)
 
 ### 📊 R Project  
 ### *[Regression Modeling for Analyzing the Factors of a Movie's Success](https://github.com/meryemcamci/movie-regression-project)*
